@@ -1,0 +1,17 @@
+.dragon_list {
+	padding-left: 3vw;
+	margin-bottom: 5vw;
+}
+.list_header {
+	color: rgb(89, 54, 91);
+}
+.dragons_link {
+	text-decoration: none;
+}
+
+section {
+	width: 60px;
+}
+section :hover {
+	color: rgb(47, 62, 193);
+}

@@ -1,0 +1,53 @@
+.name {
+	margin-bottom: 0;
+	padding-bottom: 0;
+	text-align: center;
+}
+.image_container {
+	padding-top: 0;
+	margin-top: 0;
+	text-align: center;
+}
+.image {
+	margin-top: 0;
+	width: 40vw;
+	height: 30vw;
+	border-radius: 8px;
+}
+
+.description {
+	padding: 2vw;
+	font-weight: bold;
+	text-align: justify;
+}
+.wikipedia {
+	justify-content: left;
+}
+.wikipedia a {
+	padding-left: 2vw;
+	color: rgba(40, 40, 34, 0.845);
+	text-decoration: none;
+}
+
+.add_parameters {
+	padding-left: 2vw;
+	text-align: left;
+}
+
+.left_arrow {
+	position: relative;
+	right: 25vw;
+	top: 15vw;
+	font-size: 4vw;
+	color: rgb(138, 144, 123);
+	cursor: pointer;
+}
+
+.right_arrow {
+	position: relative;
+	left: 25vw;
+	top: 15vw;
+	font-size: 4vw;
+	color: rgb(138, 144, 123);
+	cursor: pointer;
+}
